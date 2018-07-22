@@ -1,0 +1,17 @@
+{
+  "name": "solm",
+  "version": "1.0.0",
+  "description": "Landing Page for Springs of Life Mission Ibadan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solm",
+    "springs",
+    "mission",
+    "church"
+  ],
+  "author": "Olumide Aderinwale",
+  "license": "MIT"
+}
